@@ -1,0 +1,80 @@
+/**GERAL**/
+#wrap{
+	background-color: #ff6600;
+	position: absolute;
+	width: 395px;
+	height: 635px;
+	 
+}
+#voltar_menu{
+	position: absolute;
+	top: 80%;
+	left: 38%;
+}
+/**MENU**/
+#logo{
+	position: absolute;
+	top: 10%;
+	left: 5%;
+}
+#iniciar{
+	position: absolute;
+	top: 50%;
+	left: 35%;
+}
+#sobre{
+	position: absolute;
+	top: 60%;
+	left: 35%;
+}
+#tutorial{
+	position: absolute;
+	top: 70%;
+	left: 35%;
+}
+/**SOBRE**/
+h1{
+	font-family: sans-serif, arial;
+	color: white;
+	position: absolute;
+	top: 10%;
+	left: 40%;
+}
+#texto_sobre{
+	font-family: sans-serif, arial;
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 15%;
+	margin: 10px auto;	
+}
+#logo_sobre{
+	position: absolute;
+	top: 45%;
+	left: 5%;
+}
+/**TUTORIAL**/
+#tutorial_texto{
+	position: absolute;
+	top: 10%;
+	left: 30%;
+}
+h3{
+	font-family: sans-serif, arial;
+	color: white;
+	position: absolute;
+	left: 5%;
+	top: 30%;
+}
+#tutorial_pular{	
+	font-family: sans-serif, arial;
+	color: white;
+	position: absolute;
+	left: 5%;
+	top: 35%;
+}
+#rofoldo{
+	position: absolute;
+	top: 43%;
+	left: 5%;
+}
